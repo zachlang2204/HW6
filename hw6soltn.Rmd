@@ -5,6 +5,8 @@ date: "3/8/2022"
 output: html_document
 ---
 
+I had no teammates. The repository I worked in was https://github.com/zachlang2204/HW6
+
 ```{r}
 library(tidyverse)
 HAPPY = readRDS('data/HAPPY.RDS')
